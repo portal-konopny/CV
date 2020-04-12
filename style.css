@@ -24,7 +24,10 @@ header {
   padding: 2em;
   text-align: center;
   background-image: url('https://github.com/portal-konopny/CV/blob/master/img/bg.jpg?raw=true');
+  background-size: cover;
+  background-position: fixed;
   color: white;
+  
 }
 
 header section {
